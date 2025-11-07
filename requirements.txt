@@ -1,0 +1,7 @@
+ipykernel
+matplotlib
+numpy
+pymdzcf==0.1.0
+scikit-learn
+tqdm
+wlplan==2.1.0
